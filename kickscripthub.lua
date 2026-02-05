@@ -103,4 +103,3 @@ end)
 game.Players.PlayerAdded:Connect(updateList)
 game.Players.PlayerRemoving:Connect(updateList)
 updateList()
-
